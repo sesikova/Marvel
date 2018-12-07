@@ -6,6 +6,7 @@ import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
 import android.graphics.RectF;
 
+//***
 abstract class Hero {
     private Vector pos;
     protected float size;
