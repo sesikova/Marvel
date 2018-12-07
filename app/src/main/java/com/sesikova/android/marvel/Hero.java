@@ -8,7 +8,7 @@ import android.graphics.RectF;
 
 abstract class Hero {
     private Vector pos;
-    private float size;
+    protected float size;
     private Bitmap pic;
 
 
